@@ -1,0 +1,5 @@
+/config.properties
+/dispatcher-servlet.xml
+/mybatis.xml
+/spring-autoscan.xml
+/spring-beans.xml
